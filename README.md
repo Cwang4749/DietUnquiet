@@ -2,10 +2,10 @@
 Diet UnQuiet is a website created from React. It is a project that 7 undergraduate students wanted to create for their capstone class.
 The purpose of Diet Unquiet is to be a dieting app that offers the user a creative, and efficient way to lose weight. The app is constructed to offer the users a variety of options and approaches when it comes to losing weight, and staying healthy. For more information about the features read the about us page on the website.
 
-Our app was deployed using Firebase Hosting and can be found [here](https://capstone-e3196.web.app/).
+__*Our app was deployed using Firebase Hosting and can be found [here](https://capstone-e3196.web.app/).*__
 
 
-To use the Locator section of our app, you would need to enable the server [here](https://cors-anywhere.herokuapp.com/corsdemo).
+__*To use the Locator section of our app, you would need to enable the server [here](https://cors-anywhere.herokuapp.com/corsdemo).*__
 
 # Link to our recipe search API:
 https://www.themealdb.com/ 
@@ -34,3 +34,6 @@ If the command above does not work then you have not installed it correctly.
 The ability to add a profile picture.
 The ability to see all journal entries listed out in a single page like a table.
 
+## Records
+
+__*Part of the process was recorded as GIFs and stored in a Google Drive folder found [here](https://drive.google.com/drive/folders/1BX2dbai-vGp57KZWdIE-q1yH96polPUE?usp=sharing).*__
